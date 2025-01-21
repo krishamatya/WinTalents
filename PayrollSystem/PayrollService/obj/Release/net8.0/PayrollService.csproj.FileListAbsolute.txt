@@ -1,0 +1,7 @@
+D:\Krisha\Practise\MicroService\PayrollSystem\PayrollService\obj\Release\net8.0\PayrollService.csproj.AssemblyReference.cache
+D:\Krisha\Practise\MicroService\PayrollSystem\PayrollService\obj\Release\net8.0\PayrollService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Krisha\Practise\MicroService\PayrollSystem\PayrollService\obj\Release\net8.0\PayrollService.AssemblyInfoInputs.cache
+D:\Krisha\Practise\MicroService\PayrollSystem\PayrollService\obj\Release\net8.0\PayrollService.AssemblyInfo.cs
+D:\Krisha\Practise\MicroService\PayrollSystem\PayrollService\obj\Release\net8.0\PayrollService.csproj.CoreCompileInputs.cache
+D:\Krisha\Practise\MicroService\PayrollSystem\PayrollService\obj\Release\net8.0\PayrollService.MvcApplicationPartsAssemblyInfo.cs
+D:\Krisha\Practise\MicroService\PayrollSystem\PayrollService\obj\Release\net8.0\PayrollService.MvcApplicationPartsAssemblyInfo.cache
