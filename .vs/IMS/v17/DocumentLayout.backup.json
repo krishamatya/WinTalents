@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC638EA-5646-44B2-996A-7317D32557D8}|APIGatewayService\\APIGatewayService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\apigatewayservice\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CC638EA-5646-44B2-996A-7317D32557D8}|APIGatewayService\\APIGatewayService.csproj|solutionrelative:apigatewayservice\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC638EA-5646-44B2-996A-7317D32557D8}|APIGatewayService\\APIGatewayService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\apigatewayservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC638EA-5646-44B2-996A-7317D32557D8}|APIGatewayService\\APIGatewayService.csproj|solutionrelative:apigatewayservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\controller\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controller\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC638EA-5646-44B2-996A-7317D32557D8}|APIGatewayService\\APIGatewayService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\apigatewayservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CC638EA-5646-44B2-996A-7317D32557D8}|APIGatewayService\\APIGatewayService.csproj|solutionrelative:apigatewayservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\model\\userregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\model\\userregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\model\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\model\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\services\\qrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\qrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\iservices\\iqrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\iservices\\iqrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\model\\qrloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\model\\qrloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\iservices\\ismsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\iservices\\ismsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\iservices\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\iservices\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T17:03:02.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\APIGatewayService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGatewayService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\APIGatewayService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGatewayService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T17:02:21.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\APIGatewayService\\Program.cs",
+              "RelativeDocumentMoniker": "APIGatewayService\\Program.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\APIGatewayService\\Program.cs",
+              "RelativeToolTip": "APIGatewayService\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:52:17.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\APIGatewayService\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGatewayService\\ocelot.json",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\APIGatewayService\\ocelot.json",
+              "RelativeToolTip": "APIGatewayService\\ocelot.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T16:44:39.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Program.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Program.cs",
+              "RelativeToolTip": "AuthenticationService\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:11:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISmsService.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\IServices\\ISmsService.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\IServices\\ISmsService.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\IServices\\ISmsService.cs",
+              "RelativeToolTip": "AuthenticationService\\IServices\\ISmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:10:26.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOTPService.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\IServices\\IOTPService.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\IServices\\IOTPService.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\IServices\\IOTPService.cs",
+              "RelativeToolTip": "AuthenticationService\\IServices\\IOTPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:10:18.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Controller\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Controller\\AuthenticationController.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Controller\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthenticationService\\Controller\\AuthenticationController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:03:36.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OTPService.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Services\\OTPService.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Services\\OTPService.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Services\\OTPService.cs",
+              "RelativeToolTip": "AuthenticationService\\Services\\OTPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:10:30.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegistrationModel.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Model\\UserRegistrationModel.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Model\\UserRegistrationModel.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Model\\UserRegistrationModel.cs",
+              "RelativeToolTip": "AuthenticationService\\Model\\UserRegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:18:03.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QRCodeService.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Services\\QRCodeService.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Services\\QRCodeService.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Services\\QRCodeService.cs",
+              "RelativeToolTip": "AuthenticationService\\Services\\QRCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:49:56.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationDBContext.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\AuthenticationDBContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationDBContext.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\AuthenticationDBContext.cs",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:55:47.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IQRCodeService.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\IServices\\IQRCodeService.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\IServices\\IQRCodeService.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\IServices\\IQRCodeService.cs",
+              "RelativeToolTip": "AuthenticationService\\IServices\\IQRCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:05:47.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\appsettings.json",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\appsettings.json",
+              "RelativeToolTip": "AuthenticationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T16:09:18.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtSetting.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Model\\JwtSetting.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Model\\JwtSetting.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Model\\JwtSetting.cs",
+              "RelativeToolTip": "AuthenticationService\\Model\\JwtSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:21:36.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QRLoginModel.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Model\\QRLoginModel.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Model\\QRLoginModel.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Model\\QRLoginModel.cs",
+              "RelativeToolTip": "AuthenticationService\\Model\\QRLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:48:56.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tviZHaLxG9FmYhx6vTeamk8wPhADjCXRsmrAvNE1mRQ=",
+  "Source": "SocialNutritionService",
+  "BasePath": "_content/SocialNutritionService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

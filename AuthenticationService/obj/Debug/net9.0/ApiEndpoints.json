@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "AuthenticationService.Controller.AuthenticationController",
+    "Method": "LoginWithQRCode",
+    "RelativePath": "api/Authentication/login/qr",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationService.Model.QRLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controller.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authentication/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationService.Model.UserRegistrationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

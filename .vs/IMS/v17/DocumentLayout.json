@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\controller\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controller\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|d:\\krisha\\practise\\microservice\\wintalents\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4133D0-04D8-47EF-91BD-80912CFDBF0E}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Controller\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Controller\\AuthenticationController.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Controller\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthenticationService\\Controller\\AuthenticationController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:30:49.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\appsettings.json",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\appsettings.json",
+              "RelativeToolTip": "AuthenticationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T22:30:18.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Program.cs",
+              "ToolTip": "D:\\Krisha\\Practise\\MicroService\\WinTalents\\AuthenticationService\\Program.cs",
+              "RelativeToolTip": "AuthenticationService\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:11:48.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
